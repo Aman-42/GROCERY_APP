@@ -18,6 +18,12 @@ flutter pub get
 ```
 
 ## SCREENSHOTS
+![image](https://github.com/Aman-42/GROCERY_APP/assets/124837000/efa02890-c39a-4b2e-8213-4d7d69b54a54)
+![image](https://github.com/Aman-42/GROCERY_APP/assets/124837000/20cca371-3cd9-4427-a96f-e88fd0f0f515)
+![image](https://github.com/Aman-42/GROCERY_APP/assets/124837000/9e5e78e9-802e-412f-954f-c93856d12056)
+
+
+
 
 ### MAIN WINDOW
 
