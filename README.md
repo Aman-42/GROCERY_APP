@@ -1,5 +1,5 @@
 # GROCER
-Grocer is a user-friendly flutter based application that lets you effortlessly select and purchase groceries online.
+Grocer is a user-friendly flutter based application that lets you effortlessly select and purchase groceries online using your mobile
 
 
 
